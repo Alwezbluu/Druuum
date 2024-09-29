@@ -1,9 +1,0 @@
-drumGen/drums_generator/weights/hip-hop.hdf5 filter=lfs diff=lfs merge=lfs -text
-drumGen/drums_generator/weights/pop.hdf5 filter=lfs diff=lfs merge=lfs -text
-GenreClass/nbs/ffmpeg.exe filter=lfs diff=lfs merge=lfs -text
-drumGen/drums_generator/Musyng_Kite.sf2 filter=lfs diff=lfs merge=lfs -text
-drumGen/drums_generator/rock.hdf5 filter=lfs diff=lfs merge=lfs -text
-drumGen/drums_generator/weights/funk.hdf5 filter=lfs diff=lfs merge=lfs -text
-drumGen/drums_generator/weights/jazz.hdf5 filter=lfs diff=lfs merge=lfs -text
-drumGen/drums_generator/weights/punk.hdf5 filter=lfs diff=lfs merge=lfs -text
-GenreClass/nbs/ffprobe.exe filter=lfs diff=lfs merge=lfs -text
